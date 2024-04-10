@@ -11,7 +11,6 @@ OpenVPN configuration file (.ovpn) generator for devices and users. The script i
 
 
 # Usage
---
 Generate device config:
 ```
 gvcf.php -c "MY VPN CA" -n "device-1" -d 10.10.0 -v
